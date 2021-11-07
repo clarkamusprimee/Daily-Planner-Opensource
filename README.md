@@ -6,6 +6,6 @@ Feel free to add your own code and reupload in future projects
 
 (plan2.png)
 
-Live URl:http://127.0.0.1:5500/index.html
+Live URl:https://clarkamusprimee.github.io/Daily-Planner-Opensource/ 
 
 Github Repo:https://github.com/clarkamusprimee/Daily-Planner-Opensource/edit/main/README.md 
