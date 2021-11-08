@@ -1,6 +1,7 @@
 # Daily-Planner-Opensource
 This is a open source project for a Daily planner.It has the capabilities to change color on what hour of the day it is, and to change daily(The date and events saved).  
 Feel free to add your own code and reupload in future projects
+I worked with Elias Perry and Jacob Carcerano for this project
 
 (plan1.png)
 
